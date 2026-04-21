@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/Muhammad Nadeem/Mdev/Client Bots/temp-voice/**)",
+      "Bash(npm install *)",
+      "Bash(npm show *)"
+    ]
+  }
+}

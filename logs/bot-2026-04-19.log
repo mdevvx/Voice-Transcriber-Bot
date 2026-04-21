@@ -1,0 +1,33 @@
+2026-04-19 19:27:07 [INFO] ✅ Logged in as RunItUp#0056
+2026-04-19 19:27:07 [INFO] Slash commands registered → guild 1339891130946289709
+2026-04-19 19:27:08 [INFO] Slash commands registered → guild 1423363385080152177
+2026-04-19 19:27:08 [INFO] Background tasks scheduled
+2026-04-19 19:27:08 [INFO] RunItUp Bot is ready 🚀
+2026-04-19 19:29:34 [ERROR] VC connect failed: The operation was aborted
+2026-04-19 19:30:20 [ERROR] VC connect failed: The operation was aborted
+2026-04-19 20:00:00 [INFO] Task: tier role sync
+2026-04-19 20:00:02 [INFO] Task: tier sync complete — 0 updated
+2026-04-19 20:10:26 [ERROR] VC connect failed: The operation was aborted
+2026-04-19 20:14:59 [INFO] ✅ Logged in as RunItUp#0056
+2026-04-19 20:15:00 [INFO] Slash commands registered → guild 1339891130946289709
+2026-04-19 20:15:00 [INFO] Slash commands registered → guild 1423363385080152177
+2026-04-19 20:15:00 [INFO] Background tasks scheduled
+2026-04-19 20:15:00 [INFO] RunItUp Bot is ready 🚀
+2026-04-19 20:15:47 [ERROR] VC connect failed: The operation was aborted
+2026-04-19 20:17:01 [ERROR] VC connect failed: The operation was aborted
+2026-04-19 20:18:11 [INFO] ✅ Logged in as RunItUp#0056
+2026-04-19 20:18:12 [INFO] Slash commands registered → guild 1339891130946289709
+2026-04-19 20:18:12 [INFO] Slash commands registered → guild 1423363385080152177
+2026-04-19 20:18:12 [INFO] Background tasks scheduled
+2026-04-19 20:18:12 [INFO] RunItUp Bot is ready 🚀
+2026-04-19 20:18:49 [ERROR] VC connect failed | closeCode: null | err: The operation was aborted
+2026-04-19 20:21:04 [INFO] ✅ Logged in as RunItUp#0056
+2026-04-19 20:21:05 [INFO] Slash commands registered → guild 1339891130946289709
+2026-04-19 20:21:06 [INFO] Slash commands registered → guild 1423363385080152177
+2026-04-19 20:21:06 [INFO] Background tasks scheduled
+2026-04-19 20:21:06 [INFO] RunItUp Bot is ready 🚀
+2026-04-19 20:21:53 [INFO] VC state: signalling → connecting
+2026-04-19 20:21:55 [INFO] VC state: connecting → connecting
+2026-04-19 20:21:55 [INFO] VC state: connecting → signalling
+2026-04-19 20:22:52 [INFO] VC state: signalling → destroyed
+2026-04-19 20:22:52 [ERROR] VC connect failed | closeCode: null | err: The operation was aborted
